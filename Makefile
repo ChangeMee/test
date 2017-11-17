@@ -18,14 +18,11 @@ STUDENT_SOURCE = ./src/student.c   \
 				 ./src/create.c     \
 				 ./src/common.c
 
-
 STUDENT_O_SOURCE = ./src/student.o   \
 				 ./src/insert.o    \
 				 ./src/del.o       \
 				 ./src/create.o     \
 				 ./src/common.o				
-
-
 
 all: student libstudent.so
 
