@@ -1,0 +1,1 @@
+/home/changeme/work/study/test/test_c/build/CMakeFiles/student.dir
